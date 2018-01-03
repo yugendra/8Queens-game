@@ -1,0 +1,18 @@
+On a windows machine:
+
+1.install python 3.6.3 :
+https://www.python.org/downloads/
+
+2.Set environmental variable for python:
+https://www.howtogeek.com/197947/how-to-install-python-on-windows/
+
+
+3.install pip and pygame:
+python -m ensurepip --default-pip
+python -m pip install --upgrade pip setuptools wheel
+pip install pygame
+
+4.Open IDLE(python) and create game.py
+keep chessboard.py and queen.png in Python\Python36-32\Scripts\
+
+5.run chessboard.py
